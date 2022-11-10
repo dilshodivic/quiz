@@ -184,8 +184,5 @@ new QuizTest("Simple Quiz app");
        }
     }
 
-    public void changed(){
-        System.out.println("changed");
 
-    }
 }
